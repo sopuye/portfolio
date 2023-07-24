@@ -13,7 +13,6 @@ function App() {
     <main>
       <h1 className='text-9xl'>Yo</h1>
       <h1 className='text-2xl underline'>yo</h1>
-
       <About />
     </main>
   );
