@@ -12,6 +12,7 @@ function App() {
   return (
     <main>
       <h1 className='text-9xl'>Yo</h1>
+      <h1 className='text-9xl'>updates to master</h>
       <About />
     </main>
   );
